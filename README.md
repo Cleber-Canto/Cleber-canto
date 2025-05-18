@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**Cleber-Canto/Cleber-canto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Software Engineer | Backend Developer**  
+💡 Especializado em desenvolvimento backend com **Java & Spring Boot** e **Node.js**  
 
-Here are some ideas to get you started:
+### 🛠 **Tecnologias que uso e domino:**  
+- 🚀 **Linguagens:** Java, JavaScript, TypeScript  
+- 🗄️ **Banco de dados:** PostgreSQL, MySQL, MongoDB  
+- 🔑 **Autenticação & Segurança:** JWT  
+- 🛠️ **Frameworks & ORMs:** Spring Boot, Prisma ORM  
+- 🏗️ **Infraestrutura & DevOps:** Docker  
+- 🔄 **Versionamento & Colaboração:** Git, GitHub  
+- ☁ **Cloud Solutions Enthusiast**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Contato:**  
+📧 E-mail: [cantosaraiva@hotmail.com](mailto:cantosaraiva@hotmail.com)  
+🔗 LinkedIn: [Meu Perfil](https://www.linkedin.com/in/cleber-canto-627155138)  
+
+✨ "A verdadeira superação consiste na fé em si mesmo, saber que nenhuma queda é definitiva e que se reerguer é sempre possível." ✨  
